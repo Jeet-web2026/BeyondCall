@@ -1,2 +1,0 @@
-# BeyondCall
-A Ecom web
