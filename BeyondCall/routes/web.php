@@ -7,4 +7,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/register', [app\Http\Controllers\Controller, "index"]);
+Route::get('/register', [app\Http\Controllers\Controller.php, "index"]);
