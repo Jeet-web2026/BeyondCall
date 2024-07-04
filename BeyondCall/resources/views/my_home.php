@@ -9,8 +9,8 @@
 </head>
 
 <body>
-  <section id="my-page" class="p-5 w-50 justify-content-center d-flex">
-    <form method="post">
+  <section id="my-page" class="p-5 justify-content-center d-flex">
+    <form method="post" class="w-50">
       <div class="mb-3">
         <label for="exampleInputEmail1" class="form-label">Email address</label>
         <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
