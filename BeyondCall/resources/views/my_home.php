@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <section id="my-page" class="p-5">
+  <section id="my-page" class="p-5 w-50">
     <form method="post">
       <div class="mb-3">
         <label for="exampleInputEmail1" class="form-label">Email address</label>
